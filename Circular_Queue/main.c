@@ -7,10 +7,10 @@ int main()
 	init(&que);
 	enqueue(&que, 2);
 	enqueue(&que, 0);
-	enqueue(&que, 1);
+	enqueue(&que, 2);
 	enqueue(&que, 5);
 	dequeue(&que);
 	print_Queue(&que);
-	printf("test2\n");
+	printf("test by Junsung's Asus zenbook14s\n");
 	return 0;
 }
