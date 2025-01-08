@@ -11,6 +11,6 @@ int main()
 	enqueue(&que, 5);
 	dequeue(&que);
 	print_Queue(&que);
-	printf("test by Junsung's Desktop\n");
+	printf("test by Junsung's Asus Zenbook s14\n");
 	return 0;
 }
